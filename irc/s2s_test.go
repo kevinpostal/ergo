@@ -1000,4 +1000,3 @@ func TestS2SBMaskBurst(t *testing.T) {
 		t.Errorf("invite mask *!*@trusted.org was not properly synced via BMASK burst to server 2")
 	}
 }
-

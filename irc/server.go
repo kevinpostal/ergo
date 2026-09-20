@@ -1447,4 +1447,3 @@ func (server *Server) SID() string {
 func (server *Server) S2S() *S2SManager {
 	return server.s2s
 }
-

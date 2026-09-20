@@ -14,9 +14,9 @@ import (
 )
 
 const (
-	s2sSendQueueSize   = 1024
-	s2sPingInterval    = 30 * time.Second
-	s2sPingTimeout     = 60 * time.Second
+	s2sSendQueueSize    = 1024
+	s2sPingInterval     = 30 * time.Second
+	s2sPingTimeout      = 60 * time.Second
 	s2sHandshakeTimeout = 15 * time.Second
 )
 
